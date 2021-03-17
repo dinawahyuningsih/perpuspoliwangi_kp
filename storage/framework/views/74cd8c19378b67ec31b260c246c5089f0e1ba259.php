@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\perpus\resources\views/coba.blade.php ENDPATH**/ ?>
